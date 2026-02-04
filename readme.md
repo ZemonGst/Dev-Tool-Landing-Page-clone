@@ -31,4 +31,4 @@ https://github.com/ZemonGst/Dev-Tool-Landing-Page-clone
 
 Below is a full-page screenshot of the recreated landing page:
 
-![Landing Page Screenshot](Assets/dev tool clone page ss.png)
+![Landing Page Screenshot](Assets/devtoolss.png)
